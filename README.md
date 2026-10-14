@@ -2,8 +2,6 @@
 
 A 2D arcade shooter built with Python and Pygame. Zombies fall from the top of the screen. Move left and right and shoot them before they reach you.
 
-![Gameplay screenshot](screenshot.png)
-
 ## Features
 - Player movement and shooting at 60 FPS
 - Zombies spawn at random positions
