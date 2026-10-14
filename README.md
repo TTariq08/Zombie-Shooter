@@ -32,4 +32,9 @@ A 2D arcade shooter built with Python and Pygame. Zombies fall from the top of t
 
 ## Credits
 - Code: Talha Tariq (Grade 11 Computer Science final project, January 2024)
-- Art and music: <!-- list where each asset came from, e.g. "Sprites by Kenney (kenney.nl), CC0" -->
+- Music: "In Dreams" by Scott Buckley ([scottbuckley.com.au](https://www.scottbuckley.com.au)), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Background: Nuketown map art from *Call of Duty: Black Ops* (© Activision), used for a non-commercial school project
+- Zombie sprite: Basic Zombie art from *Plants vs. Zombies 2* (© PopCap Games / Electronic Arts), used for a non-commercial school project
+- Player sprite: flat-style gun icon found online; original source unknown
+
+All third-party art belongs to its respective owners.
